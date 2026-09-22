@@ -1,0 +1,1 @@
+console.log('Resultado de suma : ',10 +150);

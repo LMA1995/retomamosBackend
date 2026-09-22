@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["Server","port", "middlewares"],
+  "keywords": [
+    "Server",
+    "port",
+    "middlewares"
+  ],
   "author": "",
   "license": "ISC",
   "devEngines": {
@@ -17,5 +21,8 @@
     }
   },
   "packageManager": "pnpm@12.5.1",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
